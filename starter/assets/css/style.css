@@ -23,33 +23,33 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
-.header div {
+/*positioning of navbar*/
+.nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/*targets clickable links in navbar*/
+.header ul {
     list-style-type: none;
 }
-
-.header div ul li {
+/* fixes position of nav elements*/
+.nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*colors of links*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*targets fotnsize of content within the paragraphs*/
 p {
     font-size: 16px;
 }
-
+/*link to the main image in the bacgkround and fixes its positioning*/
 .hero {
     height: 800px;
     width: 100%;
