@@ -58,17 +58,17 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*Targets the float-left class to specify its positioning*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Targets the float-right class to specify its positioning*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*targets the positioning of elements within the content class*/
 .content {
     width: 75%;
     display: inline-block;
