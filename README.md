@@ -9,9 +9,8 @@ Many of these adjustments made the website alot more accessible to all users inc
 Personally a code highlight of mine would be using the aside element which i found rather useful in order to achieve positioning the icons and text within it to the side of the main text in the section element. It was really useful for spacing and making the webpage alot neater. I also got to read up on w3schools on the difference between section and article elements. Articles would be more specific to independent content whereas sections would be needed for a section within a document. 
 
 ### Sample Images
-![Alt text](<Screenshot 2024-01-12 at 19.34.50-1.png>)
-![Alt text](<Screenshot 2024-01-12 at 19.35.17.png>)
-![Alt text](<Screenshot 2024-01-12 at 19.35.22.png>)
+![Alt text](<Screenshot 2024-01-12 at 19.43.23-1.png>)
+![Alt text](<Screenshot 2024-01-12 at 19.45.14.png>)
 
 ### Deployment link
 
